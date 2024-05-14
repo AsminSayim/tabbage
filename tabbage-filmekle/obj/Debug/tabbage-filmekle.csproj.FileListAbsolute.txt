@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\tabbage-filmekle\tabbage-filmekle\bin\Debug\tabbage-filmekle.exe.config
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\tabbage-filmekle\tabbage-filmekle\bin\Debug\tabbage-filmekle.exe
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\tabbage-filmekle\tabbage-filmekle\bin\Debug\tabbage-filmekle.pdb
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\tabbage-filmekle\tabbage-filmekle\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\tabbage-filmekle\tabbage-filmekle\obj\Debug\tabbage-filmekle.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\tabbage-filmekle\tabbage-filmekle\obj\Debug\tabbage-filmekle.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\tabbage-filmekle\tabbage-filmekle\obj\Debug\tabbage_filmekle.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\tabbage-filmekle\tabbage-filmekle\obj\Debug\tabbage_filmekle.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\tabbage-filmekle\tabbage-filmekle\obj\Debug\tabbage-filmekle.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\tabbage-filmekle\tabbage-filmekle\obj\Debug\tabbage-filmekle.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\tabbage-filmekle\tabbage-filmekle\obj\Debug\tabbage-filmekle.csproj.CopyComplete
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\tabbage-filmekle\tabbage-filmekle\obj\Debug\tabbage-filmekle.exe
+C:\Users\User\Desktop\KORUMASIZ\409_ntp\tabbage-filmekle\tabbage-filmekle\obj\Debug\tabbage-filmekle.pdb
